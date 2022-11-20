@@ -2,7 +2,9 @@
 In this project the code is using harcascade model of machine learning to detect cars and pedestrian.
 
 For Example-
+
 ![car_image](https://user-images.githubusercontent.com/68498812/202897468-447c12c7-e4ab-4bfe-b5cf-4837a3702222.jpg)
+
 Here all the cars will be detected.
 
 # What are Haar Cascades?
